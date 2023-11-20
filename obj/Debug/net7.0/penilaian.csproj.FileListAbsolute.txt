@@ -1,0 +1,15 @@
+D:\Arul\ukk\penilaian\obj\Debug\net7.0\penilaian.csproj.AssemblyReference.cache
+D:\Arul\ukk\penilaian\obj\Debug\net7.0\penilaian.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arul\ukk\penilaian\obj\Debug\net7.0\penilaian.AssemblyInfoInputs.cache
+D:\Arul\ukk\penilaian\obj\Debug\net7.0\penilaian.AssemblyInfo.cs
+D:\Arul\ukk\penilaian\obj\Debug\net7.0\penilaian.csproj.CoreCompileInputs.cache
+D:\Arul\ukk\penilaian\bin\Debug\net7.0\penilaian.exe
+D:\Arul\ukk\penilaian\bin\Debug\net7.0\penilaian.deps.json
+D:\Arul\ukk\penilaian\bin\Debug\net7.0\penilaian.runtimeconfig.json
+D:\Arul\ukk\penilaian\bin\Debug\net7.0\penilaian.dll
+D:\Arul\ukk\penilaian\bin\Debug\net7.0\penilaian.pdb
+D:\Arul\ukk\penilaian\obj\Debug\net7.0\penilaian.dll
+D:\Arul\ukk\penilaian\obj\Debug\net7.0\refint\penilaian.dll
+D:\Arul\ukk\penilaian\obj\Debug\net7.0\penilaian.pdb
+D:\Arul\ukk\penilaian\obj\Debug\net7.0\penilaian.genruntimeconfig.cache
+D:\Arul\ukk\penilaian\obj\Debug\net7.0\ref\penilaian.dll
